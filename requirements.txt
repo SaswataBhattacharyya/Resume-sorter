@@ -1,0 +1,11 @@
+python-docx 
+pandas 
+tqdm 
+openpyxl 
+requests 
+numpy
+ollama
+regex
+win32com.client
+lxml
+PyPDF2
